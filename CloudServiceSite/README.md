@@ -7,3 +7,8 @@ Fake Cloud Service Website
 Languages Used:
     Html
     Css
+
+\n
+learned a lot, some pages are unreponsive tho.
+i learned about the use of utility classes and pretty much
+the workflow needed to build a functioning website.
