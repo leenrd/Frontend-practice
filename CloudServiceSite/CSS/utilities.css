@@ -83,6 +83,13 @@
     transform: scale(0.98);
 }
 
+code,
+pre {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+}
+
 /* text-sizes */
 
 .lead {
@@ -107,6 +114,22 @@
 
 .text-center {
     text-align: center;
+}
+
+.alert {
+    background-color: var(--light-color);
+    padding: 10px 20px;
+    font-weight: bold;
+    margin: 15px 0;
+}
+
+.alert i{
+    margin-right: 10px ;
+}
+
+.alert-success {
+    background-color: var(--success-color);
+    border-radius: 5px;
 }
 
 /* margin */
