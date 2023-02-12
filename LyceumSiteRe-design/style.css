@@ -312,6 +312,7 @@ header .container{
     display: flex;
     justify-content: center;
     align-items: center;
+
 }
 
 .cta-section .container{
@@ -337,4 +338,39 @@ header .container{
     border: 1px white solid;
 }
 
+
+/* footer */
+footer{
+    background-color: #333;
+    height: 300px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+footer .container{
+    width: 1100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.right-col h3{
+    font-size: 20px;
+    margin: 20px 0;
+}
+
+.right-col span{
+    font-size: 15px;
+    color: #9b9696;
+    margin-bottom: 20px;
+}
+
+.right-col input{
+    margin: 20px 0 20px 0;
+    border: none;
+    background: none;
+    border-bottom: 1px white solid;
+}
 
