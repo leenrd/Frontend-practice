@@ -304,3 +304,37 @@ header .container{
 .text-box .cta-button{
     margin: 0;
 }
+
+/* cta */
+
+.cta-section{
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cta-section .container{
+    background-color: green;
+    width: 1100px;
+    border-radius: 20px;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.cta-section h3{
+    padding-bottom: 0;
+    font-size: 25px;
+}
+
+.cta-section p{
+    padding-top: 0;
+}
+
+.cta-section .cta-button{
+    border: 1px white solid;
+}
+
+
